@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <form id="form1" runat="server">
     <article>
-    	<h2>SẢN PHẨM MỚI</h2>
+    	<h2>SẢN PHẨM MỚI b</h2>
         <hr />
         <div class="col">
         <div class="khung">
